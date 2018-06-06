@@ -1,6 +1,10 @@
 #include <iostream>
 #include <algorithm>
 #include <vector>
+#include <map>
+#include <stack>
+#include <queue>
+#include <cmath>
 #include <string>
 using namespace std;
 typedef vector<int> vint;
