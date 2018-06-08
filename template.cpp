@@ -15,6 +15,7 @@ typedef long long ll;
 #define rep(i,n) range(i,0,n)
 #define INF 10000000000 //10^10
 #define PI 3.141592
+#define pb push_back
 
 int main(){
 }
